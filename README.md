@@ -9,11 +9,11 @@ Windows 下的 Java 多版本切换工具：一条命令，在同一个 cmd 窗�
 
 `jenv` —— 查看帮助
 
-![jenv 帮助](img/01-usage.png)
+![jenv 帮助](./01-usage.png)
 
 `jenv version` / `jenv local jdk17` / `java -version`
 
-![版本列表与切换](img/02-switch.png)
+![版本列表与切换](./02-switch.png)
 
 ## 快速开始
 
